@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GladiusAustin
+- 👋 Hi, I’m @Gladius Austin Williams
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python,html,css,javacript
 - 📫 How to reach me willizborn@gmail.com
